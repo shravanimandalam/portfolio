@@ -12,8 +12,8 @@ export default function Hero() {
       minHeight: '100svh',
       display: 'flex',
       flexDirection: 'column',
-      justifyContent: 'flex-end',
-      padding: '0 2.5rem 4rem',
+      justifyContent: 'center',
+      padding: '5.5rem 2.5rem 4rem',
       position: 'relative',
       overflow: 'hidden',
     }}>
