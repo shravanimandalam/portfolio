@@ -4,7 +4,7 @@ import { useRef } from 'react'
 const links = [
   { label: 'Email', value: 'shravanir12@gmail.com', href: 'mailto:shravanir12@gmail.com' },
   { label: 'Phone', value: '+1 (667) 369-8227', href: 'tel:+16673698227' },
-  { label: 'LinkedIn', value: 'linkedin.com/in/shravani-mandalam', href: 'https://linkedin.com/in/shravani-mandalam' },
+  { label: 'LinkedIn', value: 'linkedin.com/in/shravani-mandalam', href: 'https://www.linkedin.com/in/shravani-mandalam-7a0ba31aa/' },
 ]
 
 export default function Contact() {
