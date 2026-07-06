@@ -9,7 +9,7 @@ const fadeUp = (delay = 0) => ({
 export default function Hero() {
   return (
     <section style={{
-      minHeight: '100svh',
+      minHeight: '78vh',
       display: 'flex',
       flexDirection: 'column',
       justifyContent: 'center',
